@@ -1,0 +1,52 @@
+{
+  "locations": {
+    "us_central": {
+      "url": "https://us-central.synthetics.elastic.dev",
+      "geo": {
+        "name": "US Central",
+        "location": {"lat": 41.25, "lon": -95.86}
+      },
+      "status": "beta"
+    },
+    "us_north": {
+      "url": "https://us-central.synthetics.elastic.dev",
+      "geo": {
+        "name": "North America",
+        "location": {"lat": 41.25, "lon": -95.86}
+      },
+      "status": "beta"
+    },
+    "latam": {
+      "url": "https://us-central.synthetics.elastic.dev",
+      "geo": {
+        "name": "LATAM",
+        "location": {"lat": 41.25, "lon": -95.86}
+      },
+      "status": "beta"
+    },
+    "eu-west": {
+      "url": "https://us-central.synthetics.elastic.dev",
+      "geo": {
+        "name": "EU West",
+        "location": {"lat": 41.25, "lon": -95.86}
+      },
+      "status": "beta"
+    },
+    "japan": {
+      "url": "https://us-central.synthetics.elastic.dev",
+      "geo": {
+        "name": "Japan",
+        "location": {"lat": 41.25, "lon": -95.86}
+      },
+      "status": "beta"
+    },
+    "apac": {
+      "url": "https://us-central.synthetics.elastic.dev",
+      "geo": {
+        "name": "APAC",
+        "location": {"lat": 41.25, "lon": -95.86}
+      },
+      "status": "beta"
+    }
+  }
+}
