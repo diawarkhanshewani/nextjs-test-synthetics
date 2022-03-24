@@ -3,7 +3,23 @@
     "us_central": {
       "url": "https://us-central.synthetics.elastic.dev",
       "geo": {
-        "name": "US Central",
+        "name": "US Central 01",
+        "location": {"lat": 41.25, "lon": -95.86}
+      },
+      "status": "beta"
+    },
+    "us_central_2": {
+      "url": "https://us-central1.synthetics.foundit.no",
+      "geo": {
+        "name": "US Central 02",
+        "location": {"lat": 41.25, "lon": -95.86}
+      },
+      "status": "beta"
+    },
+    "us_central_staging": {
+      "url": "https://us-central1.synthetics.gcp.qa.cld.elstc.co",
+      "geo": {
+        "name": "US Central QA",
         "location": {"lat": 41.25, "lon": -95.86}
       },
       "status": "beta"
