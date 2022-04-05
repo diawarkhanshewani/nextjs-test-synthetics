@@ -1,4 +1,9 @@
 {
+  "throttling": {
+    "download": 20,
+    "upload": 10,
+    "latency": 5000
+  },
   "locations": {
     "us_central": {
       "url": "https://us-central.synthetics.elastic.dev",
