@@ -10,7 +10,7 @@
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86}
       },
-      "name": "US Central 01",
+      "label": "US Central 01",
       "status": "beta"
     },
     "us_central_2": {
@@ -18,7 +18,7 @@
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86}
       },
-      "name": "US Central 02",
+      "label": "US Central 02",
       "status": "beta"
     },
     "us_central_staging": {
@@ -26,7 +26,7 @@
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86}
       },
-      "name": "US Central QA",
+      "label": "US Central QA",
       "status": "beta"
     },
     "us_north": {
@@ -34,7 +34,7 @@
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86}
       },
-      "name": "North America",
+      "label": "North America",
       "status": "beta"
     },
     "latam": {
@@ -42,7 +42,7 @@
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86}
       },
-      "name": "LATAM",
+      "label": "LATAM",
       "status": "beta"
     },
     "eu-west": {
@@ -50,7 +50,7 @@
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86}
       },
-      "name": "EU West",
+      "label": "EU West",
       "status": "beta"
     },
     "japan": {
@@ -58,7 +58,7 @@
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86}
       },
-      "name": "Japan",
+      "label": "Japan",
       "status": "beta"
     },
     "apac": {
@@ -66,7 +66,7 @@
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86}
       },
-      "name": "APAC",
+      "label": "APAC",
       "status": "beta"
     }
   }
