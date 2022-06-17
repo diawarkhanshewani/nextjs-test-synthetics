@@ -8,65 +8,65 @@
     "us_central": {
       "url": "https://us-central.synthetics.elastic.dev",
       "geo": {
-        "location": {"lat": 41.25, "lon": -95.86}
+        "location": {"lat": 41.25, "lon": -95.86},
+        "name": "US Central 01"
       },
-      "label": "US Central 01",
       "status": "beta"
     },
     "us_central_2": {
       "url": "https://us-central1.synthetics.foundit.no",
       "geo": {
-        "location": {"lat": 41.25, "lon": -95.86}
+        "location": {"lat": 41.25, "lon": -95.86},
+        "name": "US Central 02"
       },
-      "label": "US Central 02",
       "status": "beta"
     },
     "us_central_staging": {
       "url": "https://us-central1.synthetics.gcp.qa.cld.elstc.co",
       "geo": {
-        "location": {"lat": 41.25, "lon": -95.86}
+        "location": {"lat": 41.25, "lon": -95.86},
+        "name": "US Central QA"
       },
-      "label": "US Central QA",
       "status": "beta"
     },
     "us_north": {
       "url": "https://us-central.synthetics.elastic.dev",
       "geo": {
-        "location": {"lat": 41.25, "lon": -95.86}
+        "location": {"lat": 41.25, "lon": -95.86},
+        "name": "North America"
       },
-      "label": "North America",
       "status": "beta"
     },
     "latam": {
       "url": "https://us-central.synthetics.elastic.dev",
       "geo": {
-        "location": {"lat": 41.25, "lon": -95.86}
+        "location": {"lat": 41.25, "lon": -95.86},
+        "name": "LATAM"
       },
-      "label": "LATAM",
       "status": "beta"
     },
     "eu-west": {
       "url": "https://us-central.synthetics.elastic.dev",
       "geo": {
-        "location": {"lat": 41.25, "lon": -95.86}
+        "location": {"lat": 41.25, "lon": -95.86},
+        "name": "EU West"
       },
-      "label": "EU West",
       "status": "beta"
     },
     "japan": {
       "url": "https://us-central.synthetics.elastic.dev",
       "geo": {
-        "location": {"lat": 41.25, "lon": -95.86}
+        "location": {"lat": 41.25, "lon": -95.86},
+        "name": "Japan"
       },
-      "label": "Japan",
       "status": "beta"
     },
     "apac": {
       "url": "https://us-central.synthetics.elastic.dev",
       "geo": {
-        "location": {"lat": 41.25, "lon": -95.86}
+        "location": {"lat": 41.25, "lon": -95.86},
+        "name": "APAC"
       },
-      "label": "APAC",
       "status": "beta"
     }
   }
