@@ -9,7 +9,7 @@
       "url": "https://us-central.synthetics.elastic.dev",
       "geo": {
         "location": {"lat": 41.25, "lon": -95.86},
-        "name": "US Central 01"
+        "name": "North America - US Central"
       },
       "status": "beta"
     },
